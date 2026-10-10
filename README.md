@@ -20,6 +20,7 @@ Student at EDHEC Business School with a specialization in Market Finance. I am a
 | Project | Description |
 | --- | --- |
 | 1v1 Trading Game | A head-to-head trading simulation where two players compete over a 30-minute session. Success depends on speed of execution and risk discipline, and the winner is the player with the highest final P&L. |
+| [Momentum on the CAC 40](https://github.com/lacostetheo/momentum-cac40) | A backtest of a cross-sectional momentum strategy on CAC 40 stocks from 2005 to 2026, net of transaction costs. It includes an alpha/beta regression, robustness checks and an out-of-sample test, and finds that the strategy underperforms an equal-weighted portfolio (net Sharpe 0.31 vs 0.64). |
 
 New projects will be added as they are completed.
 
